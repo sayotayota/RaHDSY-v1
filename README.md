@@ -127,6 +127,6 @@ kamu baru saja mengkloning !!
 ## whatsapp number
 * [`WhatsApp`](wa.me/085229174013)
 ### Donate
-* [`Saweria`](https://saweria.co/ampibibot)
+* [`Saweria`](https://saweria.co/Candravima)
 * [`Dana : +6285229174813`]
 * [`Pulsa : +6285229174813`]
