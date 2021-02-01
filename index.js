@@ -37,10 +37,10 @@ const { ind } = require('./language')
 
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
-            + 'VERSION:3.0\n' 
-            + 'FN:Affis Admin\n' 
-            + 'ORG: Pengembang XBot;\n' 
-            + 'TEL;type=CELL;type=VOICE;waid=6282334297175:+62 823-3429-7175\n' 
+            + 'VERSION:1.0\n' 
+            + 'FN:Rahadian Admin\n' 
+            + 'ORG: Pengembang Rbots;\n' 
+            + 'TEL;type=CELL;type=VOICE;waid=6285229174013:+62 852-2917-4013\n' 
             + 'END:VCARD' 
 blocked = []   
 prefix = '#'
@@ -50,7 +50,7 @@ cr = '*BOT INI SUDAH TERVERIFIKASI*'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["62895710073737@s.whatsapp.net","6282334297175@s.whatsapp.net"] 
+const ownerNumber = ["6285229174013@s.whatsapp.net"] 
 /************************************/
 
        
