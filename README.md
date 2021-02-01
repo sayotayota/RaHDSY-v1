@@ -7,12 +7,12 @@
 ## Clone this project
 
 ```bash
-> git clone https://github.com/affisjunianto/botwasapv4
+> git clone https://github.com/sayotayota/RaHDSY-v1.git
 ```
 
 ## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
+Sebelum menjalankan perintah di bawah ini, pastikan Anda berada di direktori proyek itu
+kamu baru saja mengkloning !!
 
 ```bash
 > cd botwasapv4
@@ -122,15 +122,11 @@ you've just cloned!!
 |       ✅        |   Clone                           |
 |       ✅        |   Broadcast                |
 
-## Special Thanks to
-* [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`Fadhil Graphy`](https://github.com/MrK4ZUT0)
 
 
 ## whatsapp number
-* [`WhatsApp`](wa.me/6282334297175)
+* [`WhatsApp`](wa.me/085229174013)
 ### Donate
 * [`Saweria`](https://saweria.co/ampibibot)
-* [`Dana : +62895710073737`]
-* [`Pulsa : +6282334297175`]
+* [`Dana : +6285229174813`]
+* [`Pulsa : +6285229174813`]
