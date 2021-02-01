@@ -23,7 +23,7 @@ exports.lvlnoon = () => {
 }
 
 exports.noregis = () => {
-	return`*「 BELUM DAFTAR 」*\n\n*cara daftar ${prefix}daftar nama|umur* \n*contoh ${prefix}daftar affis|17*`
+	return`*「 BELUM DAFTAR 」*\n\n*cara daftar ${prefix}daftar nama|umur* \n*contoh ${prefix}daftar Rahadian|17*`
 }
 
 exports.rediregis = () => {
@@ -124,7 +124,7 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *Role* : ${role}
 ┣⊱ *Level* : ${getLevelingLevel(sender)}
 ┣⊱ *User register* : ${_registered.length}
-┗━━━⊱  ⸨ *AFFIS* ⸩  ⊰━━━━┛
+┗━━━⊱  ⸨ *RAHADIAN* ⸩  ⊰━━━━┛
 
 
 ┏━━⊱ *MAKER MENU* ⊰━━┓
@@ -212,15 +212,13 @@ exports.menu = (pushname, prefix, getLevelingLevel, getLevelingXp, sender, reqXp
 ┣⊱ *${prefix}setppbot*
 ┣━━⊱ *THANGKS TO* ⊰━━┫
 ┃
-┣⊱ *AFFIS JUNIANTO* <dev>
-┣⊱ *FADHIL GRAPHY* <partner>
-┣⊱ *MHANKBARBARS* <sc ori>
+┣⊱ *RAHADIAN CANDRA* <dev>
 ┣⊱ *MYBOT TEAM* <team>
 ┃
 ┣⊱ NOTE : TQTO DI HAPUS
 ┃ GW GAK UP LAGI OKE
 ┃
-┗━━⊱  ⸨ *X-BOT* ⸩  ⊰━━━━┛
+┗━━⊱  ⸨ *R-BOTS* ⸩  ⊰━━━━┛
 `
 }
 
