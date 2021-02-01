@@ -125,7 +125,7 @@ kamu baru saja mengkloning !!
 
 
 ## whatsapp number
-* [`WhatsApp`](https://wa.me/085229174013?text=Hi saya pengguna bot anda)
+* [`WhatsApp`](https://wa.me/085229174013?text=Hi%20saya%20pengguna%20bot%20anda)
 ### Donate
 * [`Saweria`](https://saweria.co/Candravima)
 * [`Dana : +6285229174813`]
